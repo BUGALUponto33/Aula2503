@@ -1,0 +1,7 @@
+C:\Users\Noah.orosa\source\repos\EX20\EX20\bin\Debug\EX20.exe.config
+C:\Users\Noah.orosa\source\repos\EX20\EX20\bin\Debug\EX20.exe
+C:\Users\Noah.orosa\source\repos\EX20\EX20\bin\Debug\EX20.pdb
+C:\Users\Noah.orosa\source\repos\EX20\EX20\obj\Debug\EX20.csproj.AssemblyReference.cache
+C:\Users\Noah.orosa\source\repos\EX20\EX20\obj\Debug\EX20.csproj.CoreCompileInputs.cache
+C:\Users\Noah.orosa\source\repos\EX20\EX20\obj\Debug\EX20.exe
+C:\Users\Noah.orosa\source\repos\EX20\EX20\obj\Debug\EX20.pdb

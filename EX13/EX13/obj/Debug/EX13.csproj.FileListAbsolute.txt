@@ -1,0 +1,7 @@
+C:\Users\Noah.orosa\source\repos\EX13\EX13\obj\Debug\EX13.csproj.AssemblyReference.cache
+C:\Users\Noah.orosa\source\repos\EX13\EX13\obj\Debug\EX13.csproj.CoreCompileInputs.cache
+C:\Users\Noah.orosa\source\repos\EX13\EX13\bin\Debug\EX13.exe.config
+C:\Users\Noah.orosa\source\repos\EX13\EX13\bin\Debug\EX13.exe
+C:\Users\Noah.orosa\source\repos\EX13\EX13\bin\Debug\EX13.pdb
+C:\Users\Noah.orosa\source\repos\EX13\EX13\obj\Debug\EX13.exe
+C:\Users\Noah.orosa\source\repos\EX13\EX13\obj\Debug\EX13.pdb

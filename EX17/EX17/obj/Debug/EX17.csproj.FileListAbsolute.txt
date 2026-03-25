@@ -1,0 +1,7 @@
+C:\Users\Noah.orosa\source\repos\EX17\EX17\bin\Debug\EX17.exe.config
+C:\Users\Noah.orosa\source\repos\EX17\EX17\bin\Debug\EX17.exe
+C:\Users\Noah.orosa\source\repos\EX17\EX17\bin\Debug\EX17.pdb
+C:\Users\Noah.orosa\source\repos\EX17\EX17\obj\Debug\EX17.csproj.AssemblyReference.cache
+C:\Users\Noah.orosa\source\repos\EX17\EX17\obj\Debug\EX17.csproj.CoreCompileInputs.cache
+C:\Users\Noah.orosa\source\repos\EX17\EX17\obj\Debug\EX17.exe
+C:\Users\Noah.orosa\source\repos\EX17\EX17\obj\Debug\EX17.pdb
